@@ -1,26 +1,31 @@
 #LCD Coding Night
 
 Remember that project you have been talking about for so long, but haven't started it yet?
+
 Now it's time to do something about it!
+
 Come and spend an entire night coding with us.
 
 
 ## Schedule:
-23h:00 - #EventStartMeeting
-00h:00 - #Sprint1 
-00h:45 - #CoffeBreak
-01h:00 - #Sprint2
-01h:45 - #CoffeBreak
-02h:00 - #Sprint3
-02h:45 - #LunchTime
-03h:30 - #Sprint4
-04h:15 - #CoffeBreak
-04h:30 - #Sprint5
-05h:15 - #CoffeBreak
-05h:30 - #Sprint6 (Last sprint)
-06h:15 - #CoffeBreak
-06h:30 - #CodingReviewMeeting
-07h:00 - #ByeByeHandshake
+
+Time   | Event
+-------| ----
+23h:00 | #EventStartMeeting
+00h:00 | #Sprint1 
+00h:45 | #CoffeBreak
+01h:00 | #Sprint2
+01h:45 | #CoffeBreak
+02h:00 | #Sprint3
+02h:45 | #LunchTime
+03h:30 | #Sprint4
+04h:15 | #CoffeBreak
+04h:30 | #Sprint5
+05h:15 | #CoffeBreak
+05h:30 | #Sprint6 (Last sprint)
+06h:15 | #CoffeBreak
+06h:30 | #CodingReviewMeeting
+07h:00 | #ByeByeHandshake
 
 
 
